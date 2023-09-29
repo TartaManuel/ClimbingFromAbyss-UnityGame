@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1714963385851551431
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8164330278556818121, guid: f2e7a860d5ef94948bad65589fda4048, type: 3}
+      propertyPath: m_Size.y
+      value: 0.64
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164330278556818121, guid: f2e7a860d5ef94948bad65589fda4048, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164330278556818123, guid: f2e7a860d5ef94948bad65589fda4048, type: 3}
+      propertyPath: m_Name
+      value: FallingBox4Level3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164330278556818123, guid: f2e7a860d5ef94948bad65589fda4048, type: 3}
+      propertyPath: m_TagString
+      value: FallingBox1Level3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164330278556818126, guid: f2e7a860d5ef94948bad65589fda4048, type: 3}
+      propertyPath: m_Mass
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164330278556818126, guid: f2e7a860d5ef94948bad65589fda4048, type: 3}
+      propertyPath: m_LinearDrag
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164330278556818126, guid: f2e7a860d5ef94948bad65589fda4048, type: 3}
+      propertyPath: m_Constraints
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164330278556818126, guid: f2e7a860d5ef94948bad65589fda4048, type: 3}
+      propertyPath: m_GravityScale
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164330278556818127, guid: f2e7a860d5ef94948bad65589fda4048, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164330278556818127, guid: f2e7a860d5ef94948bad65589fda4048, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 311.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164330278556818127, guid: f2e7a860d5ef94948bad65589fda4048, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 41.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164330278556818127, guid: f2e7a860d5ef94948bad65589fda4048, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164330278556818127, guid: f2e7a860d5ef94948bad65589fda4048, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164330278556818127, guid: f2e7a860d5ef94948bad65589fda4048, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164330278556818127, guid: f2e7a860d5ef94948bad65589fda4048, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164330278556818127, guid: f2e7a860d5ef94948bad65589fda4048, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164330278556818127, guid: f2e7a860d5ef94948bad65589fda4048, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164330278556818127, guid: f2e7a860d5ef94948bad65589fda4048, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164330278556818127, guid: f2e7a860d5ef94948bad65589fda4048, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 8164330278556818124, guid: f2e7a860d5ef94948bad65589fda4048, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: f2e7a860d5ef94948bad65589fda4048, type: 3}
+--- !u!82 &7386256595088557066 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 8164330278556818125, guid: f2e7a860d5ef94948bad65589fda4048, type: 3}
+  m_PrefabInstance: {fileID: 1714963385851551431}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &7386256595088557068 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8164330278556818123, guid: f2e7a860d5ef94948bad65589fda4048, type: 3}
+  m_PrefabInstance: {fileID: 1714963385851551431}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &91028149
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7386256595088557068}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b41c3deb32ebee4db2c8f1302e59c59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerScriptLevel3: {fileID: 0}
+  boxFallingSound: {fileID: 7386256595088557066}
+  connectedWithPushableBox: 0

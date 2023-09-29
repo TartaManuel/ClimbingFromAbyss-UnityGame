@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayButtonTitleScreen
+  - ExitButtonTitleScreen
+  - PlayAgainButton
+  - ExitTitleScreenButton
+  - PauseButton
+  - ExitGameOverButton
+  - LogicLevel1
+  - Floor
+  - Weapon
+  - Enemy
+  - Chest
+  - EnemyAI
+  - EnemyHealth
+  - EnemyName
+  - RangedWeapon
+  - EnemyAI2
+  - PlayerLevel2
+  - PauseButtonLevel2
+  - ExitTitleScreenButtonLevel2
+  - PlayAgainButtonLevel2
+  - ExitGameOverButtonLevel2
+  - LogicLevel2
+  - RangedWeaponLevel2
+  - WeaponLevel2
+  - BreakableWallLevel2
+  - ChestLevel2
+  - FallingBoxLevel2
+  - BreakableBoxLevel2
+  - EnemyAILevel2
+  - EnemyAI2Level2
+  - EnemyGrounded1
+  - EnemyGrounded2
+  - BossLevel2
+  - RangedWeaponBossLevel2
+  - Wall
+  - FireballBossLevel2
+  - FireballLevel2
+  - LogicLevelSelect
+  - LevelSelectButtonTitleScreen
+  - ResetProgressButtonTitleScreen
+  - YesButtonTitleScreen
+  - NoButtonTitleScreen
+  - ResetProgressScreen
+  - LogicLevel3
+  - PlayerLevel3
+  - PauseButtonLevel3
+  - ExitTitleScreenButtonLevel3
+  - PlayAgainButtonLevel3
+  - ExitGameOverButtonLevel3
+  - WeaponLevel3
+  - Chest1Level3
+  - BreakableBox1Level3
+  - BreakableBox2Level3
+  - FallingBox1Level3
+  - PushableBox1Level3
+  - BreakableWallEnemiesLevel2
+  - BreakableWallChestLevel3
+  - Chest2Level3
+  - EnemyBoomerang
+  - FireballLevel3
+  - BreakableBox3Level3
+  - BreakableBox4Level3
+  - BreakableBox5Level3
+  - EnemySpawner
+  - EnemyBoomerang1
+  - EnemyFixed2
+  - EnemyFixed3
+  - EnemyFixed4
+  - EnemyGroundedSpawn
+  - EnemyGroundedSpawn2
+  - FireballSpawnLevel3
+  - RangedWeaponBossLevel3
+  - BossLevel3
+  - Chest3Level3
+  - FallingBox11Level3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Obstacles
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
